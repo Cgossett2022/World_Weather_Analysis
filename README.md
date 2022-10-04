@@ -8,6 +8,7 @@ The PlanMyTrip App allows travelers to do the following:
 
 1. Select weather preferences, which are then used to identify travel destinations and nearby hotels. 
 
+![image](https://user-images.githubusercontent.com/111243284/193873650-6bd8507b-3269-4a7c-97f8-f792dcd76200.png)
 
 2. Choose four cities from the list of travel destinations, which then creates a travel itinerary. 
 
